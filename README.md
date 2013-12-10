@@ -4,4 +4,4 @@ Create an app that takes an argument (number) and determines if it is divisible 
 
 Expand this concept to divisible by 7 or anything passed as the second argument (buzzer.rb).
 
-![Screenshot](https://raw.github.com/kwick6/fizzer/master/fizzbuzz.png)
+![Screenshot](https://raw.github.com/kwick6/fizzbuzz/master/fizzbuzz.png)
